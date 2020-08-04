@@ -1,4 +1,4 @@
-### <hello-world /> 👋😄😄😄
+### Hello, world! 👋😄😄😄
 
 My name is Hugo Cury, and i'm from Brazil (🇧🇷). I'm a student of systems analysis and program development and I will share here what I've been learning.
 
