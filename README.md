@@ -1,4 +1,4 @@
-### Hello, world! 👋😄😄😄
+### Hello there! 👋😄😄😄
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hugo-cury-34212a1b3/)](https://www.linkedin.com/in/hugo-cury-almeida-netto-34212a1b3/)
 
